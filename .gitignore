@@ -1,5 +1,4 @@
 .idea/
 __pycache__/
-data/
-dump/
+.local_data
 *.zip
